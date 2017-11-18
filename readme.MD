@@ -1,5 +1,8 @@
 ## A list of open datasets for use in machine learning
 
+# List of datasets from wikipedia
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#cite_note-74
+
 # Iris
 https://archive.ics.uci.edu/ml/datasets/Iris
 
