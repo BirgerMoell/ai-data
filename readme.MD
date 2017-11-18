@@ -1,12 +1,11 @@
 ## A list of open datasets for use in machine learning
 
 # Iris
-
-# About the dataset
 https://archive.ics.uci.edu/ml/datasets/Iris
-# Dataset link
 
 # Health
+
+# ChestXray
 https://nihcc.app.box.com/v/ChestXray-NIHCC
 
 # Open Datasets from Kaggle
